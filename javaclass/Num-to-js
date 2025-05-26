@@ -1,0 +1,18 @@
+const res = Array.topstring();
+
+let num3 = 4;
+console.log(num3);
+
+let num4 = 6;
+console.log(num6);
+
+const code = "9";
+console.log(code.padStart(4, 0));
+
+//.
+
+let mynewnamesake ="blessing";
+console.log(mynewnamesake);
+
+// .replace
+
